@@ -1,15 +1,15 @@
 # JOBSTER
 
 
-Jobster is a job hunting website where anyone can search for their jobs based upon their personal preferences. 
+Jobster is a job hunting website where anyone can search for jobs based upon their personal preferences and employers can post employment opportunities. 
 
-This directory has two directories : 
+Code directory has two directories : 
 * client
 * server
 
-### Make sure you have node is installed on your machine before starting the project.
+### Make sure you have node installed on your machine before starting the project.
 
-Head to the individual folders after cloning and follow the README.
+Head to individual folders after cloning and follow below instructions.
 
 ### In the client directory : 
 
