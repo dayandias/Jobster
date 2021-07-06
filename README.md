@@ -3,7 +3,7 @@
 
 Jobster is a job hunting website where anyone can search for jobs based upon their personal preferences and employers can post employment opportunities. 
 
-Code directory has two directories : 
+Code directory (above) has two directories : 
 * client
 * server
 
